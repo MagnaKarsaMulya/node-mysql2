@@ -1,5 +1,5 @@
 {
-  "name": "mysql2",
+  "name": "@magnakarsamulya/mysql2",
   "version": "2.2.5",
   "description": "fast mysql driver. Implements core protocol, prepared statements, ssl and compression in native JS",
   "main": "index.js",
@@ -51,6 +51,10 @@
     "node": ">= 8.0"
   },
   "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "contributors": [
+    "Andrey Sidorov <sidorares@yandex.ru>",
+    "Harry Linatha <harry.linatha@magnakarsa.co.id>"
+  ]
   "license": "MIT",
   "dependencies": {
     "denque": "^1.4.1",

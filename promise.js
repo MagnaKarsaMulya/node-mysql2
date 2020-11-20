@@ -79,7 +79,8 @@ class PromiseConnection extends EventEmitter {
       'drain',
       'connect',
       'end',
-      'enqueue'
+      'enqueue',
+      'query'
     ]);
   }
 
