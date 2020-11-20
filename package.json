@@ -55,6 +55,9 @@
     "Andrey Sidorov <sidorares@yandex.ru>",
     "Harry Linatha <harry.linatha@magnakarsa.co.id>"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "license": "MIT",
   "dependencies": {
     "denque": "^1.4.1",
