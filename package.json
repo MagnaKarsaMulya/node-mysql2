@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sidorares/node-mysql2"
+    "url": "git://github.com/MagnaKarsaMulya/node-mysql2.git"
   },
   "keywords": [
     "mysql",
@@ -54,7 +54,7 @@
   "contributors": [
     "Andrey Sidorov <sidorares@yandex.ru>",
     "Harry Linatha <harry.linatha@magnakarsa.co.id>"
-  ]
+  ],
   "license": "MIT",
   "dependencies": {
     "denque": "^1.4.1",
